@@ -1,6 +1,6 @@
 ![Logo](https://solutis.com.br/wp-content/uploads/2021/04/Post-Solutis-Carreiras-TI-2021_blog-750x500.png)
 ![](https://komarev.com/ghpvc/?username=dnnh3ad)
-# Olá terráqueos, eu sou Diego! 🤘
+# Olá terráqueos, eu sou o Diego! 🤘
 
 ## 🚀 Sobre mim
 Sou desenvolvedor com experiência em Python, Node.js e SQL. Tenho paixão por criar soluções eficientes e escaláveis, sempre buscando novas tecnologias e melhores práticas para melhorar o desenvolvimento de software.
